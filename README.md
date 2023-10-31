@@ -4,7 +4,7 @@
 <h3 align="center">A developer interested in video game and web development</h3>
 <img align="right" alt="Coding" width="400" src="https://i.seadn.io/gae/p9jPZKQ04Vm86g9p4nzJKgi9Ap2T7s07quXvV2W4IDf7S0ckTH8l2-FuH_43it1YhPeCvK_di70XSlsVTul5LsIOuuHrPykhgZKE?auto=format&dpr=1&w=400">
 
-- 👨‍💻 All of my projects are available at [kristianmichel.dev](kristianmichel.dev)
+- 👨‍💻 All of my projects are available at [kristianmichel.dev](https://kristianmichel.dev)
 
 - 📫 How to reach me **kristianjeanmichel@gmail.com**
 
