@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4E12AQHDMVh1F_prsA/article-cover_image-shrink_720_1280/0/1655229919898?e=2147483647&v=beta&t=WS9Kl8Vkuv1vWejkBJ-fnFFdKm-zLSwE75gorN1NOR4)
+<img src="https://media.licdn.com/dms/image/D4E12AQHDMVh1F_prsA/article-cover_image-shrink_720_1280/0/1655229919898?e=2147483647&v=beta&t=WS9Kl8Vkuv1vWejkBJ-fnFFdKm-zLSwE75gorN1NOR4" width="1000" height="450">
 
 <h1 align="center">Hi 👋, I'm Kristian Michel</h1>
 <h3 align="center">A developer interested in video game and web development</h3>
